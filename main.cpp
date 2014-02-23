@@ -6,14 +6,10 @@
  */
 
 #include <cstdlib>
-
+#include <windows.h>
 using namespace std;
 
-/*
- * 
- */
-int main(int argc, char** argv) {
-
-    return 0;
+int WINAPI WinMain(HINSTANCE hInstance,HINSTANCE hPrevInstance,PSTR pCmdLine,int nShowCmd)
+{
+    
 }
-
